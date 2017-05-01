@@ -1,2 +1,2 @@
 # binarysearch
-simple binary search
+s very Simple binary search
